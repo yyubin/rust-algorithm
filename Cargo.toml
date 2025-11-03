@@ -1,0 +1,90 @@
+[package]
+name = "algorithm"
+version = "0.1.0"
+edition = "2024"
+build = "build.rs"
+
+[dependencies]
+[[bin]]
+name = "no_10869"
+path = "src/bin/implementation/no_10869.rs"
+
+[[bin]]
+name = "ab_1001"
+path = "src/bin/implementation/ab_1001.rs"
+
+[[bin]]
+name = "helloworld_2557"
+path = "src/bin/implementation/helloworld_2557.rs"
+
+[[bin]]
+name = "ab_1000"
+path = "src/bin/implementation/ab_1000.rs"
+
+[[bin]]
+name = "no_11382"
+path = "src/bin/implementation/no_11382.rs"
+
+[[bin]]
+name = "no_1330"
+path = "src/bin/implementation/no_1330.rs"
+
+[[bin]]
+name = "no_9498"
+path = "src/bin/implementation/no_9498.rs"
+
+[[bin]]
+name = "no_14681"
+path = "src/bin/implementation/no_14681.rs"
+
+[[bin]]
+name = "no_2420"
+path = "src/bin/implementation/no_2420.rs"
+
+[[bin]]
+name = "no_2741"
+path = "src/bin/implementation/no_2741.rs"
+
+[[bin]]
+name = "no_10872"
+path = "src/bin/implementation/no_10872.rs"
+
+[[bin]]
+name = "no_10950"
+path = "src/bin/implementation/no_10950.rs"
+
+[[bin]]
+name = "no_10952"
+path = "src/bin/implementation/no_10952.rs"
+
+[[bin]]
+name = "no_2438"
+path = "src/bin/implementation/no_2438.rs"
+
+[[bin]]
+name = "no_1008"
+path = "src/bin/implementation/no_1008.rs"
+
+[[bin]]
+name = "no_1152"
+path = "src/bin/string/no_1152.rs"
+
+[[bin]]
+name = "no_2439"
+path = "src/bin/implementation/no_2439.rs"
+
+[[bin]]
+name = "no_2475"
+path = "src/bin/implementation/no_2475.rs"
+
+[[bin]]
+name = "no_2562"
+path = "src/bin/implementation/no_2562.rs"
+
+[[bin]]
+name = "no_2557"
+path = "src/bin/string/no_2557.rs"
+
+[[bin]]
+name = "no_1546"
+path = "src/bin/math/no_1546.rs"

@@ -1,0 +1,20 @@
+[[bin]]
+name = "no_10869"
+path = "src/bin/implementation/no_10869.rs"
+
+[[bin]]
+name = "ab_1001"
+path = "src/bin/implementation/ab_1001.rs"
+
+[[bin]]
+name = "helloworld_2557"
+path = "src/bin/implementation/helloworld_2557.rs"
+
+[[bin]]
+name = "ab_1000"
+path = "src/bin/implementation/ab_1000.rs"
+
+[[bin]]
+name = "no_11382"
+path = "src/bin/implementation/no_11382.rs"
+
