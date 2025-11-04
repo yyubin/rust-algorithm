@@ -88,3 +88,19 @@ path = "src/bin/string/no_2557.rs"
 [[bin]]
 name = "no_1546"
 path = "src/bin/math/no_1546.rs"
+
+[[bin]]
+name = "no_10828"
+path = "src/bin/structure/no_10828.rs"
+
+[[bin]]
+name = "no_10828_re"
+path = "src/bin/structure/no_10828_re.rs"
+
+[[bin]]
+name = "no_10845"
+path = "src/bin/structure/no_10845.rs"
+
+[[bin]]
+name = "no_1018"
+path = "src/bin/brute_force/no_1018.rs"
