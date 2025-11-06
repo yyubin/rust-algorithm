@@ -1,3 +1,5 @@
+mod no_10989;
+
 use std::io;
 
 fn main() {

@@ -104,3 +104,23 @@ path = "src/bin/structure/no_10845.rs"
 [[bin]]
 name = "no_1018"
 path = "src/bin/brute_force/no_1018.rs"
+
+[[bin]]
+name = "no_1259"
+path = "src/bin/string/no_1259.rs"
+
+[[bin]]
+name = "no_2292"
+path = "src/bin/implementation/no_2292.rs"
+
+[[bin]]
+name = "no_10989"
+path = "src/bin/math/no_10989.rs"
+
+[[bin]]
+name = "no_1874"
+path = "src/bin/structure/no_1874.rs"
+
+[[bin]]
+name = "no_11650"
+path = "src/bin/sort/no_11650.rs"
