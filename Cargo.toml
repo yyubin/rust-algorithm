@@ -144,3 +144,23 @@ path = "src/bin/structure/no_10816.rs"
 [[bin]]
 name = "no_9012"
 path = "src/bin/structure/no_9012.rs"
+
+[[bin]]
+name = "no_2164"
+path = "src/bin/implementation/no_2164.rs"
+
+[[bin]]
+name = "no_1920"
+path = "src/bin/structure/no_1920.rs"
+
+[[bin]]
+name = "no_10814"
+path = "src/bin/sort/no_10814.rs"
+
+[[bin]]
+name = "no_2775"
+path = "src/bin/dp/no_2775.rs"
+
+[[bin]]
+name = "no_2630"
+path = "src/bin/divide_conquer/no_2630.rs"
