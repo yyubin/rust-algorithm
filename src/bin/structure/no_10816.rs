@@ -1,3 +1,5 @@
+mod no_17219;
+
 use std::io::{self, Write};
 use std::collections::HashMap;
 

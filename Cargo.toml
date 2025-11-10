@@ -164,3 +164,19 @@ path = "src/bin/dp/no_2775.rs"
 [[bin]]
 name = "no_2630"
 path = "src/bin/divide_conquer/no_2630.rs"
+
+[[bin]]
+name = "no_16928"
+path = "src/bin/bfs/no_16928.rs"
+
+[[bin]]
+name = "no_9375"
+path = "src/bin/math/no_9375.rs"
+
+[[bin]]
+name = "no_2178"
+path = "src/bin/bfs/no_2178.rs"
+
+[[bin]]
+name = "no_17219"
+path = "src/bin/structure/no_17219.rs"
