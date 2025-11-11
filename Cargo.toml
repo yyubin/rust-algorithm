@@ -180,3 +180,19 @@ path = "src/bin/bfs/no_2178.rs"
 [[bin]]
 name = "no_17219"
 path = "src/bin/structure/no_17219.rs"
+
+[[bin]]
+name = "no_11047"
+path = "src/bin/math/no_11047.rs"
+
+[[bin]]
+name = "no_11279"
+path = "src/bin/structure/no_11279.rs"
+
+[[bin]]
+name = "no_1620"
+path = "src/bin/structure/no_1620.rs"
+
+[[bin]]
+name = "no_1697"
+path = "src/bin/bfs/no_1697.rs"
