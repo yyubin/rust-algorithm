@@ -196,3 +196,11 @@ path = "src/bin/structure/no_1620.rs"
 [[bin]]
 name = "no_1697"
 path = "src/bin/bfs/no_1697.rs"
+
+[[bin]]
+name = "no_1764"
+path = "src/bin/sort/no_1764.rs"
+
+[[bin]]
+name = "no_11723"
+path = "src/bin/bit_masking/no_11723.rs"
