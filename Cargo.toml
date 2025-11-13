@@ -204,3 +204,11 @@ path = "src/bin/sort/no_1764.rs"
 [[bin]]
 name = "no_11723"
 path = "src/bin/bit_masking/no_11723.rs"
+
+[[bin]]
+name = "no_9095"
+path = "src/bin/dp/no_9095.rs"
+
+[[bin]]
+name = "no_11403"
+path = "src/bin/floyd_warshall/no_11403.rs"

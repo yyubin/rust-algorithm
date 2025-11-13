@@ -1,3 +1,5 @@
+mod no_9095;
+
 use std::io::{self, Write};
 
 fn main() {
