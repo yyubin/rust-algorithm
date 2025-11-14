@@ -212,3 +212,11 @@ path = "src/bin/dp/no_9095.rs"
 [[bin]]
 name = "no_11403"
 path = "src/bin/floyd_warshall/no_11403.rs"
+
+[[bin]]
+name = "no_5525"
+path = "src/bin/string/no_5525.rs"
+
+[[bin]]
+name = "no_11724"
+path = "src/bin/bfs/no_11724.rs"
